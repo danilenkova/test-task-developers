@@ -1,0 +1,18 @@
+[
+  {
+    "id": "service",
+    "title": "Услуги"
+  },
+  {
+    "id": "portfolio",
+    "title": "Портфолио"
+  },
+  {
+    "id": "stages",
+    "title": "Этапы"
+  },
+  {
+    "id": "designers",
+    "title": "Дизайнеры"
+  }
+]
